@@ -1,3 +1,7 @@
+*files*
+* `loadImg.html`: upload image to img element
+* `mlpage.html`: test of ml5.js image identification
+
 ### Links
 
 Neural Algorithm of Artistic Style:
