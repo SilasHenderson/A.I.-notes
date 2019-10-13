@@ -10,6 +10,7 @@ Neural Algorithm of Artistic Style:
 
 Walk-thrus
 * <a href=https://milhidaka.github.io/webdnn-exercise/> Getting Started with WebDNN</a>
+* <a href=https://github.com/MGCodesandStats/image-recognition-with-keras-convolutional-neural-networks/blob/master/.ipynb_checkpoints/keras%20images-checkpoint.ipynb> Image Recognition Example Notebook </a>
 
 Learning Resources
 * <a href=https://machinelearningmastery.com/k-fold-cross-validation/> Gentle Intro to k-fold Cross-Validation </a>
