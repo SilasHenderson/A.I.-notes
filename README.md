@@ -1,20 +1,18 @@
 
-### About
+# A.I. 
 
-The purpose of this repo is to learn the basics of AI and test out a few different frameworks.
+*the future is now!*
 
-### Scripts
+#### Scripts
 * `loadImg.html`: upload image to img element
 * `mlpage.html`: test of ml5.js image identification
-
-### Notes
 * `ml_notes_1.ipynb`: image classification with TF
 * `pandas_min.ipynb`: read in data with pandas (minimal)
 
-### Links
-*Neural Algorithm of Artistic Style:*
-* <a href=https://arxiv.org/pdf/1508.06576.pdf> Original Paper </a>
-* <a href=https://github.com/cysmith/neural-style-tf> Tensorflow Implementation </a>
+#### Links
+*Theory*
+* <a href=https://arxiv.org/pdf/1508.06576.pdf> A Neural Algorithm of Aristic Style </a>
+* <a href=https://arxiv.org/pdf/1901.09388.pdf> Deep Learning in the Browser </a>
 
 *Walk-thrus*
 * <a href=https://milhidaka.github.io/webdnn-exercise/> Getting Started with WebDNN</a>
@@ -22,6 +20,5 @@ The purpose of this repo is to learn the basics of AI and test out a few differe
 * <a href=https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6>
    Build a neural-network from scratch </a>
 
-*Theory*
-* <a href=https://machinelearningmastery.com/k-fold-cross-validation/> Gentle Intro to k-fold Cross-Validation </a>
-* <a href=https://perso.univ-st-etienne.fr/fod07375/Workshop/assets/slides/Presentation_Wolf.pdf> Deep Learning vs. Random Forests </a>
+*Resources*
+* <a href=https://github.com/cysmith/neural-style-tf> Aristic Style (Tensorflow Implementation) </a>
