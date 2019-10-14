@@ -1,15 +1,12 @@
 
 # A.I. 
 
-*the future is now!*
-
-#### Scripts
+*Scripts*
 * `loadImg.html`: upload image to img element
 * `mlpage.html`: test of ml5.js image identification
 * `ml_notes_1.ipynb`: image classification with TF
 * `pandas_min.ipynb`: read in data with pandas (minimal)
 
-#### Links
 *Theory*
 * <a href=https://arxiv.org/pdf/1508.06576.pdf> A Neural Algorithm of Aristic Style </a>
 * <a href=https://arxiv.org/pdf/1901.09388.pdf> Deep Learning in the Browser </a>
