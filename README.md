@@ -4,6 +4,7 @@
 
 ### Notes
 * `ml_notes_1.ipynb`: image classification with TF
+* `pandas_min.ipynb`: read in data with pandas (minimal)
 
 ### Links
 
@@ -18,3 +19,4 @@
 *Learning Resources*
 * <a href=https://machinelearningmastery.com/k-fold-cross-validation/> Gentle Intro to k-fold Cross-Validation </a>
 * <a href=https://perso.univ-st-etienne.fr/fod07375/Workshop/assets/slides/Presentation_Wolf.pdf> Deep Learning vs. Random Forests </a>
+
