@@ -2,6 +2,9 @@
 * `loadImg.html`: upload image to img element
 * `mlpage.html`: test of ml5.js image identification
 
+### Notes
+* `ml_notes_1.ipynb`: image classification with TF
+
 ### Links
 
 Neural Algorithm of Artistic Style:
