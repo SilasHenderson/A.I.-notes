@@ -1,6 +1,5 @@
 
-# A.I. 
-
+# @!
 *Scripts*
 * `loadImg.html`: upload image to img element
 * `mlpage.html`: test of ml5.js image identification
