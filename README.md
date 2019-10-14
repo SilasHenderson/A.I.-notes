@@ -12,7 +12,6 @@ The purpose of this repo is to learn the basics of AI and test out a few differe
 * `pandas_min.ipynb`: read in data with pandas (minimal)
 
 ### Links
-
 *Neural Algorithm of Artistic Style:*
 * <a href=https://arxiv.org/pdf/1508.06576.pdf> Original Paper </a>
 * <a href=https://github.com/cysmith/neural-style-tf> Tensorflow Implementation </a>
@@ -20,7 +19,9 @@ The purpose of this repo is to learn the basics of AI and test out a few differe
 *Walk-thrus*
 * <a href=https://milhidaka.github.io/webdnn-exercise/> Getting Started with WebDNN</a>
 * <a href=https://github.com/MGCodesandStats/image-recognition-with-keras-convolutional-neural-networks/blob/master/.ipynb_checkpoints/keras%20images-checkpoint.ipynb> Image Recognition Example Notebook </a>
+* <a href=https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6>
+   Build a neural-network from scratch </a>
 
-*Learning Resources*
+*Theory*
 * <a href=https://machinelearningmastery.com/k-fold-cross-validation/> Gentle Intro to k-fold Cross-Validation </a>
 * <a href=https://perso.univ-st-etienne.fr/fod07375/Workshop/assets/slides/Presentation_Wolf.pdf> Deep Learning vs. Random Forests </a>
