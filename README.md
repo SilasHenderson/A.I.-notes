@@ -13,8 +13,7 @@
 *Walk-thrus*
 * <a href=https://milhidaka.github.io/webdnn-exercise/> Getting Started with WebDNN</a>
 * <a href=https://github.com/MGCodesandStats/image-recognition-with-keras-convolutional-neural-networks/blob/master/.ipynb_checkpoints/keras%20images-checkpoint.ipynb> Image Recognition Example Notebook </a>
-* <a href=https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6>
-   Build a neural-network from scratch </a>
+* <a href=https://victorzhou.com/blog/intro-to-neural-networks/> Build a neural-network from scratch </a>
 
 *Resources*
 * <a href=https://github.com/cysmith/neural-style-tf> Aristic Style (Tensorflow Implementation) </a>
