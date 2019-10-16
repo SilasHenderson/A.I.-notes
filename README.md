@@ -1,7 +1,7 @@
 # @!
 *Scripts*
 * `loadImg.html`: upload image from user computer to `img` element
-* `mlpage.html`: ml5.js image identification with pretrained networks: *darknet, darknet tiny, mobilenet* 
+* `mlpage.html`: image classification with `ml5.js` pretrained networks: *darknet, darknet tiny, mobilenet* 
 
 *Notes*
 * `ml_notes_1.ipynb`: image classification with TF
