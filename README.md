@@ -12,4 +12,5 @@
 
 *Videos*
 * <a href=https://youtu.be/6E6XecoTRVo> A Fun and Practical Intro to Brain.js </a>
-
+* <a href=https://youtu.be/RVMHhtTqUxc> Brain.js Machine Learning </a>
+* <a href=//https://youtu.be/aircAruvnKk>  Neural Networks (3blue1brown) </a>
