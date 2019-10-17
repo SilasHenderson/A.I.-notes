@@ -4,7 +4,7 @@
 * `mlpage.html`: image classification with `ml5.js` pretrained networks: *darknet, darknet tiny, mobilenet* 
 
 *Links*
-* <a href=https://github.com/BrainJS/brain.js/tree/master/src> Brain.js source code and examples </a>
+* <a href=https://github.com/BrainJS/brain.js> Brain.js source code and examples </a>
 * <a href=https://www.ibiblio.org/e-notes/ml/notes.htm> Tensorflow.js notes </a>
 * <a href=https://github.com/ProWhalen/AndrewNg-ML/blob/master/Make%20Your%20Own%20Neural%20Network.pdf> Make your own Neural Network </a>
 * <a href=https://arxiv.org/pdf/1901.09388.pdf> Deep Learning in the Browser </a>
