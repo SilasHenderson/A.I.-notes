@@ -3,7 +3,8 @@
 * `loadImg.html`: upload image from user computer to `img` element
 * `mlpage.html`: image classification with `ml5.js` pretrained networks: *darknet, darknet tiny, mobilenet* 
 
-*Theory*
+*Links*
 * <a href=https://arxiv.org/pdf/1508.06576.pdf> A Neural Algorithm of Artistic Style </a>
 * <a href=https://arxiv.org/pdf/1901.09388.pdf> Deep Learning in the Browser </a>
 * <a href=https://github.com/ProWhalen/AndrewNg-ML/blob/master/Make%20Your%20Own%20Neural%20Network.pdf> Neural Networks from Scratch </a>
+* <a href=https://www.ibiblio.org/e-notes/ml/notes.htm> Tensorflow.js notes </a>
