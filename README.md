@@ -9,3 +9,6 @@
 * <a href=https://github.com/ProWhalen/AndrewNg-ML/blob/master/Make%20Your%20Own%20Neural%20Network.pdf> Make your own Neural Network </a>
 * <a href=https://arxiv.org/pdf/1901.09388.pdf> Deep Learning in the Browser </a>
 * <a href=https://arxiv.org/pdf/1508.06576.pdf> A Neural Algorithm of Artistic Style </a>
+
+*Bonus*
+* <a href=https://youtu.be/_UFGB2MBo4o> Accelerating Gradient Descent </a>
