@@ -12,3 +12,6 @@
 
 *Bonus*
 * <a href=https://youtu.be/_UFGB2MBo4o> Accelerating Gradient Descent </a>
+
+*Comments*
+* `mlpage.html` needs asynch
