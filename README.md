@@ -15,4 +15,5 @@
 
 *Comments*
 * `mlpage.html` needs asynch
-* mona lisa --> azil anom --> a sanctuary without a name
+* mona lisa --> azil anom --> a sanctuary without a name ( maybe ... whatever )
+* should get more into ai in about a year. need to learn more about gpu math so can write more from scratch.
